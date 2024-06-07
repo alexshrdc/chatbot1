@@ -7,7 +7,7 @@ Time open:
 Everyday from 9am to 6pm (Except wednesday)
 
 Order and delivery service chatbot link:
-(https://www.cakeshop.com)
+(https://hf.co/chat/assistant/660621dc27fbb10a87d77668)
 
 Location:
 Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
