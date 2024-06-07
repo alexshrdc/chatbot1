@@ -6,8 +6,8 @@ Mr. ALEX KOH (Exquisite 3-star Michelin star bakery chef)
 Time open:
 Everyday from 9am to 6pm (Except wednesday)
 
-Order and delivery service chatbot link:
-(https://hf.co/chat/assistant/660621dc27fbb10a87d77668)
+Website Link:
+(https://chocolate-cakes-kijjl6g.gamma.site/)
 
 Location:
 Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
