@@ -19,7 +19,7 @@ Phone Number:
 
 Cake flavours:
 Chocolate (Available)
-Vanilla (Available)
+Vanilla (Unavailable)
 Strawberry (Unavailable)
 Blueberry (Unavailable)
 
